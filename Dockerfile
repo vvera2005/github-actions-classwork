@@ -8,3 +8,4 @@ RUN apt-get update
 
 RUN apt-install python3
 
+CMD ["echo" "HelloWorld"]
